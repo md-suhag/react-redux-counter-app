@@ -8,7 +8,7 @@ body {
   min-width: 100vw;
   min-height: 100vh;
   background-image: linear-gradient(rgba(0, 0, 0, 0.747), rgba(0, 0, 0, 0.753)),
-    url("./Circuit\ Board.svg");
+    url("/static/images/Circuit\ Board.svg");
   background-size: cover;
   color: white;
 
