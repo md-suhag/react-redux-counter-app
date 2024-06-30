@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap");
+
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 100vw;
+  min-height: 100vh;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.747), rgba(0, 0, 0, 0.753)),
+    url("./Circuit\ Board.svg");
+  background-size: cover;
+  color: white;
+
+  font-family: "Roboto Slab", serif;
+}
+
+h1 {
+  font-size: 2.5em;
+  line-height: 1.1;
+  font-style: italic;
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px 0px rgb(224, 0, 0);
+}
